@@ -1,0 +1,5 @@
+# Scooter(String _type, int _vehicle_id, float _rent_cost, float _vehicle_range, float _insurance_cost,
+#		String _color, String brand, String model, int _rent_counter)
+Scooter 1 100.50 5000 100 black Avanti model1 4
+Scooter 2 105.50 5000 200 red Biomega model2 3
+Scooter 3 110.50 5000 50 silver Dynacraft model3 2

@@ -1,0 +1,6 @@
+# Car(String _type, String _vehicle_id, float _rent_cost, float _vehicle_range, float _insurance_cost, String _color,
+# String _brand, String _model, int _rent_counter, int _passanger_number, String _car_type)
+#
+Car PPI4187 213.5 15000.5 76.3 red audi q2 4 4 SUV
+Car TZI4000 313.5 16000.5 86.3 green opel astra 2 5 SUV
+Car PTI4000 413.5 17000.5 96.3 blue fiat pundo 3 4 MINI

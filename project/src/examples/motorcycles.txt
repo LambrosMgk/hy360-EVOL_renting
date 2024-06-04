@@ -1,0 +1,5 @@
+# Motorcycle(String _type, String _vehicle_id, float _rent_cost, float _vehicle_range, float _insurance_cost,
+#			String _color, String brand, String model, int _rent_counter) 
+Motorcycle PTT4187 150.50 10000 200 black Kawazaki ninja 4
+Motorcycle PIZ4000 155.50 10000 300 red Hayabusa XS 3
+Motorcycle PYS4000 160.50 10000 150 silver Kawazaki ninja 2

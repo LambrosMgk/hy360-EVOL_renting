@@ -1,0 +1,5 @@
+# Bicycle(String _type, String _vehicle_id, float _rent_cost, float _vehicle_range, float _insurance_cost,
+#		String _color, String _brand, String _model, int _rent_counter) 
+Bicycle 1 60 100 20 red Avanti BX 1
+Bicycle 1 70 100 20 green Biomega mountain 3
+Bicycle 1 55 100 20 blue Dynacraft city 6
