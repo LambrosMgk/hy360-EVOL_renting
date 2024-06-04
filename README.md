@@ -1,5 +1,6 @@
 # hy360-EVOL_renting
-Group project for the course hy360 of UOC - Computer Science Department
+Group project for the course hy360 of UOC - Computer Science Department.
+The group consisted of 3 people and used java.swing components for the User Interface.
 
 Install / Run :
 
