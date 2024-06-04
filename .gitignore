@@ -1,5 +1,8 @@
 # Bin folder
-/bin
+project/bin
+
+.classpath
+.project
 
 # Compiled class file
 *.class
