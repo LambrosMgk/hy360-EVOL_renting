@@ -2,6 +2,9 @@
 Group project for the course hy360 of UOC - Computer Science Department.
 The group consisted of 3 people and used java.swing components for the User Interface.
 
+The topic of the project is the design and implementation of an information system for the electric vehicle rental company EVOL (not a real company).
+We must create an application using Java, JDBC and MySQL that allows users to rent vehicles (and by extension to interact with the database).
+
 Install / Run :
 
 We used XAMPP for our database management.
